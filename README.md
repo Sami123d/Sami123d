@@ -6,7 +6,7 @@
    
  - 👨🏻‍🎓 Final Year Undergraduate Computer Science Student (SMIU Karachi)
 
-- 💻 I’m currently working on **React Native**
+- 💻 I’m currently working on **React JS**
 
 - 🌱 I’m currently learning **MERN Stack development**
 
@@ -29,6 +29,6 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=souhaib-789" alt="souhaib-789" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sami123d" alt="Sami123d" />
   </a> 
 </p>
