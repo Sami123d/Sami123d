@@ -18,9 +18,10 @@
   <a href="https://www.linkedin.com/in/sami-ahmed-420931215/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/Sami123d" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" />
-  </a>
+ <a href="https://github.com/Sami123d" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" />
+</a>
+
 </p>
 
 ---
@@ -67,8 +68,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   </a>
   <a href="https://prisma.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/> 
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/> 
+</a>
+
   <a href="https://mui.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/452/material-ui.png" alt="Material UI" width="40" height="40"/> 
   </a>
