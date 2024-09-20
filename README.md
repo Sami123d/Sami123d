@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   </a>
   <a href="https://prisma.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/> 
+  <img src="https://w7.pngwing.com/pngs/929/464/png-transparent-prisma-hd-logo.png" alt="Prisma" width="40" height="40"/> 
 </a>
 
   <a href="https://mui.com" target="_blank" rel="noreferrer">
