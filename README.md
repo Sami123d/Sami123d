@@ -8,7 +8,7 @@
 - 🎓 **Recent Computer Science Graduate (SMIU Karachi)**
 - 💻 **Currently working on:** React JS and full-stack development
 - 🌱 **Learning:** MERN Stack development, Web 3.0, and Metaverse concepts
-- 📫 **Reach me at:** [saminazirqureshi1@gmail.com](mailto:saminazirqureshi1@gmail.com)
+- 📫 **Reach me at:** [saminazirqureshi1@gmail.com](mailto:samiahmedtech@gmail.com)
 - ⚡ **Fun fact:** "Experience is the name everyone gives to their mistakes" ~ Oscar Wilde
 
 ---
