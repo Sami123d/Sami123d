@@ -1,14 +1,14 @@
 ![MasterHead](https://www.dresma.ai/wp-content/uploads/2022/01/React-Native-Developer-1.gif)
 
 <h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">A passionate MERN stack developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate software engineer from Karachi, Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 - 🎓 **Recent Computer Science Graduate (SMIU Karachi)**
 - 💻 **Currently working on:** React JS and full-stack development
 - 🌱 **Learning:** MERN Stack development, Web 3.0, and Metaverse concepts
-- 📫 **Reach me at:** [saminazirqureshi1@gmail.com](mailto:samiahmedtech@gmail.com)
+- 📫 **Reach me at:** [samiahmedtech@gmail.com](mailto:samiahmedtech@gmail.com)
 - ⚡ **Fun fact:** "Experience is the name everyone gives to their mistakes" ~ Oscar Wilde
 
 ---
