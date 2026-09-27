@@ -1,91 +1,64 @@
-![MasterHead](https://www.dresma.ai/wp-content/uploads/2022/01/React-Native-Developer-1.gif)
+# Sami Ahmed
 
-<h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">A passionate software engineer from Karachi, Pakistan</h3>
+Full-stack developer in Karachi, Pakistan. I build web apps (React, Next.js, Angular), Node/NestJS/Express APIs, and LLM-powered apps and automations (Gemini, LangGraph, n8n).
+Computer Science graduate, SMIU Karachi.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
-- 🎓 **Recent Computer Science Graduate (SMIU Karachi)**
-- 💻 **Currently working on:** React JS and full-stack development
-- 🌱 **Learning:** MERN Stack development, Web 3.0, and Metaverse concepts
-- 📫 **Reach me at:** [samiahmedtech@gmail.com](mailto:samiahmedtech@gmail.com)
-- ⚡ **Fun fact:** "Experience is the name everyone gives to their mistakes" ~ Oscar Wilde
+📫 [samiahmedtech@gmail.com](mailto:samiahmedtech@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sami-ahmed-420931215/)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sami-ahmed-420931215/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
- <a href="https://github.com/Sami123d" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" />
-</a>
+## What the repositories show
 
-</p>
+Every line below links to code you can read. Each README states the project's real status, including what is unfinished.
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a>
-  <a href="https://prisma.io" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/929/464/png-transparent-prisma-hd-logo.png" alt="Prisma" width="40" height="40"/> 
-</a>
-
-  <a href="https://mui.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/452/material-ui.png" alt="Material UI" width="40" height="40"/> 
-  </a>
-</p>
+| Area | Evidence |
+|------|----------|
+| **AI agents & LLM apps** | [linkedin-ai-studio](https://github.com/Sami123d/linkedin-ai-studio) (multi-step Gemini/Ollama agent pipeline, pgvector RAG) · [dialogflow-chatbot](https://github.com/Sami123d/dialogflow-chatbot) · [job-app-agent-extended](https://github.com/Sami123d/job-app-agent-extended) · [nexus-support-extended](https://github.com/Sami123d/nexus-support-extended) |
+| **Full-stack web** | [Currency-App](https://github.com/Sami123d/Currency-App) (Angular) · [Blog-Management](https://github.com/Sami123d/Blog-Management) (React) · [Chatnix-website](https://github.com/Sami123d/Chatnix-website) (Next.js + Strapi CMS, ISR) |
+| **Backend / APIs** | [Currency-Backend-Api](https://github.com/Sami123d/Currency-Backend-Api) (NestJS) · [Blog-Management-API](https://github.com/Sami123d/Blog-Management-API) (Express + MongoDB, JWT) · [Chatnix-website-backend](https://github.com/Sami123d/Chatnix-website-backend) (Strapi 5 headless CMS) |
+| **Automation & scraping** | [linkedin-ai-studio](https://github.com/Sami123d/linkedin-ai-studio) (3 n8n workflows: trend collection, publishing, analytics) · [NexaScraper](https://github.com/Sami123d/NexaScraper) (my contributions to a fork: OpenStreetMap source, Playwright scraper fix) |
+| **Testing & CI** | Tested repos run GitHub Actions: Vitest, Jest + Supertest with in-memory MongoDB, Nest e2e tests, pytest |
 
 ---
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><a href="https://sami123d.github.io/apple-site/" target="_blank">Apple Clone</a> - Apple Home Page with HTML and CSS</li>
-  <li><a href="https://sami123d.github.io/olx-clone/" target="_blank">OLX Clone</a> - OLX Home Page with HTML and CSS</li>
-  <li><a href="https://rentacarui.netlify.app/" target="_blank">Rent A Car UI</a> - Fully Responsive Rent-A-Car UI with HTML, CSS, and Bootstrap</li>
-  <li><a href="https://guarderwebtask.netlify.app/" target="_blank">Guarder UI</a> - Fully Responsive Guarder UI with Complete Page Designs using HTML, CSS, and Bootstrap</li>
-  <li><a href="https://sami123d.github.io/Review-Slider/" target="_blank">Review Slider</a> - Fully Responsive Review Slider with Reviews and LinkedIn Profile Link using HTML, CSS, and JavaScript</li>
-  <li><a href="https://social-frontend-vercel.vercel.app/" target="_blank">Social Media App</a> - Developed a social media web app using the MERN stack, implementing user authentication, interactive UI, and scalable backend infrastructure</li>
-  <li><a href="https://gemini-rho-gray.vercel.app/" target="_blank">Google Gemini Clone</a> - Developed a fully functional Responsive clone of the Google Gemini platform using React JS and Gemini API</li>
-  <li><a href="https://e-learning-platform-green.vercel.app/" target="_blank">Edu Hub</a> - Developed a full-stack e-learning platform using the MERN stack, implementing payment notifications and various other features to enhance user engagement and platform functionality</li>
-</ul>
+## Featured projects
+
+### [LinkedIn AI Studio](https://github.com/Sami123d/linkedin-ai-studio)
+**Next.js 16 · Prisma 7 · Supabase (Postgres + pgvector) · n8n · Gemini / Ollama**
+n8n collects trends from 10 sources. Agents then research, plan, write and review a LinkedIn post, drawing on a personal knowledge base searched with pgvector. The user approves and schedules the post, n8n publishes it, and a daily job pulls back likes and comments. Every AI step keeps an audit log. 21 Vitest tests; CI on GitHub Actions.
+*Status:* implemented in code. LinkedIn publishing has not yet been tested against a real LinkedIn developer app, and the [live site](https://linkedin-ai-studio-alpha.vercel.app) shows only the public landing and login pages.
+
+### [Currency Converter](https://github.com/Sami123d/Currency-App) + [API](https://github.com/Sami123d/Currency-Backend-Api)
+**Angular 21 + Material · NestJS 11 · Vercel**
+Converts between currencies at latest or historical rates, and keeps conversion history in the browser. The NestJS backend keeps the exchange-rate API key on the server, validates input and returns proper 400/502 errors. Tests on both sides (Vitest specs; Nest unit + e2e tests with the provider mocked). [Live demo](https://currency-app-psi-self.vercel.app).
+
+### [Samilog — Blog platform](https://github.com/Sami123d/Blog-Management) + [API](https://github.com/Sami123d/Blog-Management-API)
+**React 19 + Vite · Express 5 · MongoDB · JWT · ImageKit**
+JWT access and refresh tokens, author and admin roles, posts with drafts, search, pagination, comments and image uploads. The API has 13 integration tests (Jest + Supertest + in-memory MongoDB).
+
+### [Dialogflow Chatbot](https://github.com/Sami123d/dialogflow-chatbot)
+**Next.js 16 · Node WebSocket server · Dialogflow ES**
+Real-time chat UI. A WebSocket server forwards messages to Dialogflow's detectIntent API and includes a sample fulfilment webhook. Has tests and CI.
+
+### [Chatnix — marketing site + headless CMS](https://github.com/Sami123d/Chatnix-website)
+**Next.js 16 · Tailwind · Strapi 5 · ISR**
+Marketing site for an AI chatbot builder: product pages, pricing, five industry landing pages, and a blog. Articles, categories and FAQs come from a [Strapi 5 backend](https://github.com/Sami123d/Chatnix-website-backend) over REST, with incremental static regeneration (ISR). The backend started from Strapi's blog template, with a custom FAQ type added. CI on both repos.
+*Status:* in progress. The contact form is not wired up and the site is not deployed.
+
+
+
+### Extended open-source projects
+Repositories that build on other people's MIT-licensed code. Each README credits the original author and lists exactly what I changed.
+- [job-app-agent-extended](https://github.com/Sami123d/job-app-agent-extended): added a provider-agnostic LLM interface, SQLite history API, PDF export, Docker and a pytest suite.
+- [nexus-support-extended](https://github.com/Sami123d/nexus-support-extended): LangGraph support agent. Added a real LLM fallback, a Docker startup fix, SSN/card masking and tests.
+- [ai-client-onboarding-extended](https://github.com/Sami123d/ai-client-onboarding-extended): added PDF export and email via Resend, and fixed Netlify functions that crashed on load. Vitest suite.
+
+---
+
+## Tech I've used in these repos
+
+**Frontend:** TypeScript, React, Next.js, Angular, Tailwind CSS, Angular Material, Vite
+**Backend:** Node.js, Express, NestJS, Strapi, FastAPI (in extended projects), REST, WebSockets
+**Data:** MongoDB/Mongoose, PostgreSQL/Prisma, Supabase, pgvector, SQLite
+**AI & automation:** Gemini, Ollama, Dialogflow ES, LangGraph, n8n, Playwright
+**Tooling:** Git, GitHub Actions, Vitest, Jest, Supertest, pytest, Docker, Vercel
