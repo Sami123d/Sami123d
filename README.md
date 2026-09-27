@@ -14,8 +14,8 @@ Every line below links to code you can read. Each README states the project's re
 | Area | Evidence |
 |------|----------|
 | **AI agents & LLM apps** | [linkedin-ai-studio](https://github.com/Sami123d/linkedin-ai-studio) (multi-step Gemini/Ollama agent pipeline, pgvector RAG) · [dialogflow-chatbot](https://github.com/Sami123d/dialogflow-chatbot) · [job-app-agent-extended](https://github.com/Sami123d/job-app-agent-extended) · [nexus-support-extended](https://github.com/Sami123d/nexus-support-extended) |
-| **Full-stack web** | [Currency-App](https://github.com/Sami123d/Currency-App) (Angular) · [Blog-Management](https://github.com/Sami123d/Blog-Management) (React) · [Chatnix-website](https://github.com/Sami123d/Chatnix-website) (Next.js + Strapi CMS, ISR) |
-| **Backend / APIs** | [Currency-Backend-Api](https://github.com/Sami123d/Currency-Backend-Api) (NestJS) · [Blog-Management-API](https://github.com/Sami123d/Blog-Management-API) (Express + MongoDB, JWT) · [Chatnix-website-backend](https://github.com/Sami123d/Chatnix-website-backend) (Strapi 5 headless CMS) |
+| **Full-stack web** | [Currency-App](https://github.com/Sami123d/Currency-App) (Angular) · [Blog-Management](https://github.com/Sami123d/Blog-Management) (React) |
+| **Backend / APIs** | [Currency-Backend-Api](https://github.com/Sami123d/Currency-Backend-Api) (NestJS) · [Blog-Management-API](https://github.com/Sami123d/Blog-Management-API) (Express + MongoDB, JWT) |
 | **Automation & scraping** | [linkedin-ai-studio](https://github.com/Sami123d/linkedin-ai-studio) (3 n8n workflows: trend collection, publishing, analytics) · [NexaScraper](https://github.com/Sami123d/NexaScraper) (my contributions to a fork: OpenStreetMap source, Playwright scraper fix) |
 | **Testing & CI** | Tested repos run GitHub Actions: Vitest, Jest + Supertest with in-memory MongoDB, Nest e2e tests, pytest |
 
@@ -40,11 +40,6 @@ JWT access and refresh tokens, author and admin roles, posts with drafts, search
 **Next.js 16 · Node WebSocket server · Dialogflow ES**
 Real-time chat UI. A WebSocket server forwards messages to Dialogflow's detectIntent API and includes a sample fulfilment webhook. Has tests and CI.
 
-### [Chatnix — marketing site + headless CMS](https://github.com/Sami123d/Chatnix-website)
-**Next.js 16 · Tailwind · Strapi 5 · ISR**
-Marketing site for an AI chatbot builder: product pages, pricing, five industry landing pages, and a blog. Articles, categories and FAQs come from a [Strapi 5 backend](https://github.com/Sami123d/Chatnix-website-backend) over REST, with incremental static regeneration (ISR). The backend started from Strapi's blog template, with a custom FAQ type added. CI on both repos.
-*Status:* in progress. The contact form is not wired up and the site is not deployed.
-
 
 
 ### Extended open-source projects
@@ -58,7 +53,7 @@ Repositories that build on other people's MIT-licensed code. Each README credits
 ## Tech I've used in these repos
 
 **Frontend:** TypeScript, React, Next.js, Angular, Tailwind CSS, Angular Material, Vite
-**Backend:** Node.js, Express, NestJS, Strapi, FastAPI (in extended projects), REST, WebSockets
+**Backend:** Node.js, Express, NestJS, FastAPI (in extended projects), REST, WebSockets
 **Data:** MongoDB/Mongoose, PostgreSQL/Prisma, Supabase, pgvector, SQLite
 **AI & automation:** Gemini, Ollama, Dialogflow ES, LangGraph, n8n, Playwright
 **Tooling:** Git, GitHub Actions, Vitest, Jest, Supertest, pytest, Docker, Vercel
